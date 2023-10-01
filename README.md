@@ -1,2 +1,24 @@
-# Front-end-basics-including-path-exchange-and-Echarts-reference
-前端基础（包含路径互换和Echarts引用）
+# vue-demo4
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
